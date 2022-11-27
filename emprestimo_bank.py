@@ -5,7 +5,6 @@ anos = int(input('Quantos anos ira pagar?: '))
 prestacao = casa / (anos*12)
 minimo = salario * 30 / 100
 
-
 if prestacao <= minimo:
     print('Empréstimo pode ser CONSEDIDO!')
 
