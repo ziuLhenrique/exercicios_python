@@ -10,10 +10,10 @@ Suas opções:
 [2] Tesoura: 
 escolha sua opção: '''))
 
-print('-='*11)
-print(f'Computador jogou {itens[computador]}')
-print(f'Jogador jogou {itens[jogador]}')
-print('-='*11)
+#print('-='*11)
+#print(f'Computador jogou {itens[computador]}')
+#print(f'Jogador jogou {itens[jogador]}')
+#print('-='*11)
 
 sleep(1)
 print('jo')
